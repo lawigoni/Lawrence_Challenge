@@ -1,4 +1,4 @@
-# Lawrence_Challenge
+# Terraform Code for Scalable and Secure Static Web Application in AWS
 
 This Terraform code creates and deploys a running instance of a web server in AWS that serves a single static page with the content "Hello World!" The web application is secured and hosted such that only appropriate ports are publicly exposed, and any HTTP requests are redirected to HTTPS. The code also includes automated tests to validate the correctness of the server configuration.
 
